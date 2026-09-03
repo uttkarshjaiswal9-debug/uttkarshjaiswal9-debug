@@ -279,11 +279,12 @@ Currently developing software engineering fundamentals through academic coursewo
 ---
 
 # GITHUB TROPHIES
+
 <h2>🏆 GITHUB TROPHIES</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=uttkarshjaiswal9-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=uttkarshjaiswal9-debug&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"
     width="100%"
     alt="GitHub Trophies"
   />
@@ -295,7 +296,7 @@ Currently developing software engineering fundamentals through academic coursewo
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=uttkarshjaiswal9-debug&bg_color=07050D&color=C4B5FD&line=7C3AED&point=A855F7&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=uttkarshjaiswal9-debug&theme=github-compact&hide_border=true"
     width="100%"
     alt="Contribution Activity Graph"
   />
