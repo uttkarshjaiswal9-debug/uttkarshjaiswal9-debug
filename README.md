@@ -279,24 +279,27 @@ Currently developing software engineering fundamentals through academic coursewo
 ---
 
 # GITHUB TROPHIES
+<h2>🏆 GITHUB TROPHIES</h2>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=uttkarshjaiswal9-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=uttkarshjaiswal9-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</p>
 
 # CONTRIBUTION ACTIVITY
 
-<div align="center">
+<h2>📈 CONTRIBUTION ACTIVITY</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uttkarshjaiswal9-debug&bg_color=07050D&color=C4B5FD&line=7C3AED&point=A855F7&area_color=312E81&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=uttkarshjaiswal9-debug&bg_color=07050D&color=C4B5FD&line=7C3AED&point=A855F7&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
 
 # CONTRIBUTION SNAKE
 
