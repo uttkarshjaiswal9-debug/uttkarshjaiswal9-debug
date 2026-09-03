@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE-2025--2029-7C3AED?style=for-the-badge&labelColor=07050D"/>
 <img src="https://img.shields.io/badge/GLA%20University-6366F1?style=for-the-badge&labelColor=07050D"/>
-<img src="https://img.shields.io/badge/CGPA-8.0%2F10-A855F7?style=for-the-badge&labelColor=07050D"/>
+
 <img src="https://img.shields.io/badge/India-4F46E5?style=for-the-badge&labelColor=07050D"/>
 
 <br><br>
