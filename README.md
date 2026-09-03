@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Uttkarsh%20Jaiswal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=UTTKARSH%20JAISWAL&fontSize=52&fontColor=F5F3FF&fontAlignY=35&animation=fadeIn&color=0:07050D,25:17104A,50:312E81,75:6D28D9,100:07050D" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+Java+Developer;Exploring+AI+%26+Data+Science;Learning+DSA+%26+Software+Development;Building+Projects+and+Practicing+Daily" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=C4B5FD&center=true&vCenter=true&width=950&lines=Computer+Science+%26+Engineering+Undergraduate;Backend-Focused+Developer+%7C+Problem+Solver;Java+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;DSA+%7C+REST+APIs+%7C+Databases;Exploring+AI+%26+Data+Science" alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/GLA%20University-2024--2028-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-Developer-9333EA?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE-2025--2029-7C3AED?style=for-the-badge&labelColor=07050D"/>
+<img src="https://img.shields.io/badge/GLA%20University-6366F1?style=for-the-badge&labelColor=07050D"/>
+<img src="https://img.shields.io/badge/CGPA-8.0%2F10-A855F7?style=for-the-badge&labelColor=07050D"/>
+<img src="https://img.shields.io/badge/India-4F46E5?style=for-the-badge&labelColor=07050D"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/uttkarsh-jaiswal-74810931b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
 </a>
+
 <a href="https://leetcode.com/u/Uttkarshjaiswal04/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-216%2B%20SOLVED-A855F7?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=111827"/>
 </a>
+
 <a href="https://github.com/uttkarshjaiswal9-debug">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
 </a>
 
 <br><br>
@@ -33,275 +33,315 @@
 
 ---
 
-# About Me
+# ABOUT
 
-I am a **B.Tech Computer Science & Engineering student at GLA University**, currently focused on strengthening my programming fundamentals and building practical development skills.
+Computer Science & Engineering undergraduate at **GLA University** with a strong focus on **software development, backend engineering and problem solving**.
 
-My current primary focus is **Java development, Object-Oriented Programming, Data Structures & Algorithms, Git/GitHub, and problem solving**, while gradually exploring **Artificial Intelligence and Data Science**.
+I work with **Java, C++, Python and JavaScript**, with hands-on exposure to **REST APIs, React.js, Node.js, MySQL and MongoDB**.
 
-I believe in learning through **consistent practice, projects, experimentation, and problem solving**.
+My current engineering focus is building a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems and Computer Networks**, while exploring **Artificial Intelligence and Data Science**.
+
+I learn by building practical systems, participating in hackathons, solving coding problems and continuously improving my engineering fundamentals.
+
+### Engineering Focus
+
+`Software Development` `Backend Engineering` `REST APIs` `DSA` `OOP` `Databases` `Problem Solving`
 
 ### Open To
 
-- Software Development Opportunities
-- Java Development
-- AI / Data Science Learning Opportunities
-- Hackathons & Technical Projects
-- Open Source Contributions
-- Collaboration on Interesting Projects
+`Software Development` `Backend Development` `Java Development` `Hackathons` `Open Source` `Technical Collaboration`
 
 ---
 
-# Tech Stack
+# TECH STACK
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" height="52"/>
 </p>
 
-### Development & Tools
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,react" height="52"/>
 </p>
 
-### Currently Strengthening
+### Backend & Databases
 
 <p>
-<img src="https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/DSA-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" height="52"/>
+</p>
+
+### Core Computer Science
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-A855F7?style=flat-square"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="52"/>
 </p>
 
 ---
 
-# AI / ML & Data Science Direction
+# AI / ML & DATA SCIENCE
 
-| Domain | Focus |
-|---|---|
-| Programming | Java & Python fundamentals |
-| Data Structures | Learning and practicing core DSA |
-| Problem Solving | Regular coding practice |
-| Artificial Intelligence | Exploring concepts and applications |
-| Data Science | Exploring tools, concepts and workflows |
-| Software Development | Building practical projects |
+| Domain | Status | Focus |
+|---|---|---|
+| Artificial Intelligence | Exploring | AI concepts & applications |
+| Data Science | Exploring | Data analysis & workflows |
+| Machine Learning | Exploring | ML fundamentals |
+| Computer Vision | Project Exposure | Biometric recognition systems |
+| Python | Working Knowledge | Programming & development |
+| Problem Solving | Practicing | DSA & coding patterns |
 
 ---
 
-# Featured Projects
+# FEATURED PROJECTS
 
 <details>
-<summary><b>🔐 Automatic Biometric Attendance System</b></summary>
+<summary><b>01 · Passcode-Based Gas Stove Safety & Locking System</b></summary>
 
 <br>
 
-A project focused on building an **automatic biometric attendance system** using face recognition technologies and a backend service.
+A safety-focused engineering project centered on controlled access through a passcode-based locking concept.
 
-| Area | Details |
-|---|---|
-| Stack | Python, DeepFace, MTCNN, FastAPI, Uvicorn |
-| Focus | Face Recognition & Attendance |
-| Backend | FastAPI |
-| Recognition | DeepFace / MTCNN |
-| Goal | Automate attendance through biometric identification |
-
-**Project Focus**
-
-- Face-based identification
-- Automated attendance workflow
-- Backend API development
-- Authentication and security considerations
-- Practical application of computer vision
-
-</details>
-
-<details>
-<summary><b>🤖 GF-Bot</b></summary>
-
-<br>
-
-A chatbot-oriented project developed while exploring **Python, Flask and backend integration**.
-
-| Area | Details |
-|---|---|
-| Stack | Python, Flask |
-| Focus | Chatbot Development |
-| Backend | Flask |
-| Goal | Build an interactive chatbot application |
-
-</details>
-
-<details>
-<summary><b>📈 BizBoost</b></summary>
-
-<br>
-
-A development project built while working with **Node.js and web application concepts**.
-
-| Area | Details |
-|---|---|
-| Stack | Node.js |
-| Backend | JavaScript / Node.js |
-| Focus | Web Application Development |
-| Server | Node.js |
-| Development | Backend & Application Logic |
-
-</details>
-
-<details>
-<summary><b>🔒 Passcode Based Locking System in Gas Stove</b></summary>
-
-<br>
-
-A project concept focused on improving safety through a **passcode-based locking mechanism for a gas stove**.
-
-| Area | Details |
+| Category | Details |
 |---|---|
 | Domain | Safety & Automation |
-| Core Idea | Passcode-based access control |
-| Focus | Hardware-oriented security concept |
-| Goal | Prevent unauthorized operation |
+| Core | Passcode-Based Access Control |
+| Focus | Controlled Operation |
+| Engineering | Hardware–Software Integration |
+| Impact | Designed to reduce unauthorized or unintended operation |
+| Repository | GitHub Profile |
+
+### Engineering Highlights
+
+- Designed a controlled-access concept for stove operation.
+- Focused on reliable user interaction and safety.
+- Applied access-control thinking to a real-world engineering problem.
+
+</details>
+
+<details>
+<summary><b>02 · Digital Controllable FlowMeter</b></summary>
+
+<br>
+
+A digital flow measurement project focused on **real-time monitoring, controllability and accurate measurement**.
+
+| Category | Details |
+|---|---|
+| Domain | Digital Measurement |
+| Focus | Real-Time Flow Monitoring |
+| Engineering | Digital Interface / Mechanism |
+| Goal | Accurate measurement and controllability |
+| Application | Real-World Engineering |
+| Repository | GitHub Profile |
+
+### Engineering Highlights
+
+- Developed a digitally controlled flow measurement system.
+- Focused on real-time monitoring of flow data.
+- Worked toward improved measurement accuracy and controllability.
+
+</details>
+
+<details>
+<summary><b>03 · Personal Expense & Budget Analytics Platform</b></summary>
+
+<br>
+
+A planned full-stack platform designed to record, categorize and analyze personal expenses.
+
+| Category | Details |
+|---|---|
+| Status | Planned Project |
+| Frontend | React.js |
+| Backend | Node.js · Express.js |
+| Database | MongoDB |
+| API | REST APIs |
+| Planned Features | Transactions · Categories · Monthly Analytics · Authentication |
+
+### Planned Engineering Scope
+
+- Transaction management REST APIs.
+- Category-based expense filtering.
+- Monthly spending summaries.
+- Analytics dashboard.
+- Database-backed financial records.
+- Planned authentication and user-specific data management.
 
 </details>
 
 ---
 
-# Experience
+# EXPERIENCE & ENGINEERING JOURNEY
 
-### Student Developer & Learner
+### Computer Science & Engineering Undergraduate
 
-**GLA University | 2024 – Present**
+**GLA University · 2025 – Present**
 
-Currently developing a strong foundation in Computer Science through academic learning, programming practice, technical projects and coding platforms.
+Currently developing software engineering fundamentals through academic coursework, coding practice, practical projects and hackathon participation.
 
-#### Current Scope
+### Core Scope
 
-- Java programming and Object-Oriented Programming
 - Data Structures & Algorithms
-- Problem solving and coding practice
-- Git & GitHub workflow
-- Software development fundamentals
-- Exploring AI and Data Science
-- Building practical technical projects
+- Object-Oriented Programming
+- Software Development
+- REST APIs
+- Database-Driven Applications
+- Backend Development
+- Problem Solving
+- Computer Networks
+- Operating Systems
+- DBMS
 
-**Skills:** `Java` `OOP` `DSA` `Git` `GitHub` `Problem Solving` `Python`
+`C++` `Java` `Python` `JavaScript` `React.js` `Node.js` `MySQL` `MongoDB`
 
 ---
 
-# Achievements & Progress
+# ACHIEVEMENTS
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🎓 Academic Progress | B.Tech Computer Science & Engineering student |
-| 💻 Coding Practice | Active problem-solving practice |
-| 🚀 Project Development | Building practical software and technical projects |
-| 📚 Continuous Learning | Exploring Java, DSA, AI & Data Science |
+| AI Nirwan Hackathon | Participated in a real-world problem-solving hackathon |
+| CodePunk Hackathon | Participated in a technical hackathon |
+| Coding Practice | 216+ LeetCode problems solved |
+| Academic | B.Tech CSE · CGPA 8.0 / 10 |
 
 </div>
 
 ---
 
-# Certifications
+# CERTIFICATIONS
 
-> Certifications will be added here as they are completed.
+<div align="center">
+
+<img src="https://img.shields.io/badge/HACKATHON%20PARTICIPATION-AI%20Nirwan-7C3AED?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/HACKATHON%20PARTICIPATION-CodePunk-6366F1?style=for-the-badge&labelColor=111827"/>
+
+</div>
 
 ---
 
-# Coding Profiles
+# CODING PROFILES
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Uttkarshjaiswal04/">
-<img src="https://img.shields.io/badge/LeetCode-Uttkarshjaiswal04-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-216%2B%20PROBLEMS%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=111827"/>
 </a>
 
-<br><br>
-
 <a href="https://github.com/uttkarshjaiswal9-debug">
-<img src="https://img.shields.io/badge/GitHub-uttkarshjaiswal9--debug-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-UTTKARSHJAISWAL9--DEBUG-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
 </a>
 
 </div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=uttkarshjaiswal9-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarshjaiswal9-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=uttkarshjaiswal9-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="70%"/>
+<div align="center">
+
+<a href="https://leetcode.com/u/Uttkarshjaiswal04/">
+
+<img src="https://leetcard.jacoblin.cool/Uttkarshjaiswal04?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=18&colors=07050D,111827,F5F3FF,DDD6FE,4F46E5,6366F1,7C3AED,A855F7" width="78%"/>
+
+</a>
 
 </div>
 
 ---
 
-# GitHub Trophies
+# GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=uttkarshjaiswal9-debug&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=uttkarshjaiswal9-debug&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07050D&title_color=C4B5FD&icon_color=A855F7&text_color=DDD6FE&ring_color=7C3AED" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarshjaiswal9-debug&layout=compact&langs_count=8&hide_border=true&bg_color=07050D&title_color=C4B5FD&text_color=DDD6FE" width="42%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=uttkarshjaiswal9-debug&hide_border=true&background=07050D&ring=7C3AED&fire=A855F7&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B82A6&currStreakNum=F5F3FF&sideNums=F5F3FF" width="72%"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uttkarshjaiswal9-debug&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=uttkarshjaiswal9-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
 ---
 
-# Contribution Snake
+# CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/uttkarshjaiswal9-debug/uttkarshjaiswal9-debug/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uttkarshjaiswal9-debug&bg_color=07050D&color=C4B5FD&line=7C3AED&point=A855F7&area_color=312E81&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
 ---
 
-# Current Focus
+# CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uttkarshjaiswal9-debug/uttkarshjaiswal9-debug/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uttkarshjaiswal9-debug/uttkarshjaiswal9-debug/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/uttkarshjaiswal9-debug/uttkarshjaiswal9-debug/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# CURRENT FOCUS
 
 ```yaml
 Learning:
-  - Java
-  - Object Oriented Programming
+  - Advanced Java
   - Data Structures & Algorithms
-  - Problem Solving
-  - Git & GitHub
+  - Object Oriented Programming
+  - Backend Development
+  - REST APIs
+  - Database Systems
   - Python
   - AI & Data Science
 
 Building:
-  - Java Projects
-  - Backend Applications
-  - Technical Projects
-  - Coding Portfolio
+  - Java Applications
+  - Backend Systems
+  - REST API Projects
+  - Full-Stack Applications
+  - Engineering Projects
 
 Exploring:
   - Artificial Intelligence
-  - Data Science
   - Machine Learning
+  - Data Science
+  - Computer Vision
   - Software Engineering
 
 Open To:
-  - Technical Collaboration
+  - Software Development Opportunities
+  - Backend Development
   - Hackathons
   - Open Source
-  - Development Opportunities
+  - Technical Collaboration
