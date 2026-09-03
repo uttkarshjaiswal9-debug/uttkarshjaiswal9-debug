@@ -345,3 +345,32 @@ Open To:
   - Hackathons
   - Open Source
   - Technical Collaboration
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/uttkarshjaiswal9-debug/uttkarshjaiswal9-debug/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/uttkarshjaiswal9-debug/uttkarshjaiswal9-debug/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/uttkarshjaiswal9-debug/uttkarshjaiswal9-debug/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=BUILD%20%E2%80%A2%20SOLVE%20%E2%80%A2%20SHIP&fontSize=22&fontColor=F5F3FF&fontAlignY=65&color=0:1E1B4B,50:4F46E5,100:7C3AED"
+    width="100%"
+  />
+</p>
