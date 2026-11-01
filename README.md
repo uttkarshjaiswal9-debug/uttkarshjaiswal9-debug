@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://leetcode.com/u/Uttkarshjaiswal04/">
-<img src="https://img.shields.io/badge/LEETCODE-216%2B%20SOLVED-A855F7?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/LEETCODE-282%2B%20SOLVED-A855F7?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=111827"/>
 </a>
 
 <a href="https://github.com/uttkarshjaiswal9-debug">
